@@ -49,11 +49,9 @@ int	printf_putnbrp(unsigned int un, int *error)
 	int		nb;
 	int		count;
 	char	c;
-	int		n;
 
 	count = 0;
 	nb = un / 10;
-	n = 0;
 	if (nb != 0)
 		count += printf_putnbr(nb, error);
 	c = '0' + un % 10;
