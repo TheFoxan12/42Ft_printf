@@ -1,5 +1,6 @@
 # 42Ft_printf
-My project Ft_printf from School 42
+My project Ft_printf from School 42</br>
+Final grade: 100/100
 
 ![42Ft_printf-cover](cover-ft_printf-bonus.png)
 
